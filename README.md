@@ -186,3 +186,4 @@ table with rows and columns! It may seem counterintuitive at first to list out
 row content separately, but with this, you can represent all sorts of data!
 
 [mpia]: https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts
+[def]: https://s3.amazonaws.com/ironboard-learn/us_cities_by_population.png
